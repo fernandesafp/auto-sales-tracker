@@ -1,0 +1,6 @@
+
+*.pyc
+
+finance/migrations/
+
+db.sqlite3
