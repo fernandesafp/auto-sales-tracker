@@ -69,8 +69,8 @@ The project follows the structure:
     - `models.py` - Models file with the models used - User, Contact, CarMake, CarModel, Vehicle, Transaction and Task;
     - `urls.py` - Urls with the navigation between the index.html and login.html as well as the API routes which edits, adds or loads content;
     - `views.py` - File with all the application views regarding the loading of pages and API routes;
-    - `requirements.txt` - File with all the required dependencies to run the project;
-    - `.gitignore` - Git ignore with all the unnecessary files and directories.
+- `requirements.txt` - File with all the required dependencies to run the project;
+- `.gitignore` - Git ignore with all the unnecessary files and directories.
 
 ### Views
 
